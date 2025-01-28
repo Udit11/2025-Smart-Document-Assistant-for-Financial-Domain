@@ -47,7 +47,7 @@ To run the project, ensure the following dependencies are installed:
 ## Setup:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/smart-document-assistant.git
+   git clone https://github.com/Udit11/smart-document-assistant.git
    cd smart-document-assistant
 
 2. Install required dependencies:
